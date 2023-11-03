@@ -1,0 +1,41 @@
+body{
+	background: #FFFFFF;
+}
+
+header{
+	background: #D3D3D3;
+	text-align: center;
+	color: #ffffff;
+
+}
+
+nav{
+
+	font-variant: 
+	normal;
+	font-family: Arial, "Time New Roman", serif;
+	font-size: 100%;
+	text-align: left;
+
+}
+
+
+img {
+	display: none;
+}
+
+main{
+	
+	width:100%;
+	background:#696969;
+	display: table-cell;
+	height: 300px;
+}
+	
+h2{
+	color:#00008B;
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+}
+
+
